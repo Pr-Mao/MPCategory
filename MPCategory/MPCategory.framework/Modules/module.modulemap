@@ -1,0 +1,6 @@
+framework module MPCategory {
+  umbrella header "MPCategory.h"
+
+  export *
+  module * { export * }
+}
